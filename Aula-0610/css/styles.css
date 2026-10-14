@@ -22,14 +22,15 @@ body {
 
 a {
     text-decoration: none;
-    color: var(--color-light);   
-    
+    color: var(--color-light);
+
     &:hover {
         color: var(--color-orange);
     }
 }
 
-ul, ol {
+ul,
+ol {
     list-style: none;
 }
 
